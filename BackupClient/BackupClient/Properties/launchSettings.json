@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BackupClient": {
+      "commandName": "Project",
+      "commandLineArgs": "--ip=192.168.16.119 --port=8080 --initConnection=true --xmlLocation=\"\"\"default\"\"\" --compressionLevel=5 --backupMode=false --plaintextKey=\"\"\"myKey12345678\"\"\" --binLocation=\"\"\"C:\\decrypted PB\"\"\""
+    }
+  }
+}
